@@ -1,2 +1,12 @@
 Rappel:
 Méthode -> Pile (espace limité en taille) -> Trié / Tas non trié
+
+i++ -> moyen classique qui prend plus de ressource
+++i -> d'abord agrementer la varible et apres y accéder -> Permet d'optimiser le code lors du build
+
+boucle for -> repétition determiné de fois
+boucle foreach -> for(int i = 0; i < montTab; i++{ var nombre = montTab[i];} // Permet de simplifier le code
+
+uInt -> entier non signé
+
+A partir de 2 boucle imprique il faut une méthode

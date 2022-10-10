@@ -1,0 +1,15 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\bin\Debug\net6.0\Maitrice_POO.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\bin\Debug\net6.0\Maitrice_POO.deps.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\bin\Debug\net6.0\Maitrice_POO.runtimeconfig.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\bin\Debug\net6.0\Maitrice_POO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\bin\Debug\net6.0\Maitrice_POO.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.csproj.AssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.AssemblyInfoInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.AssemblyInfo.cs
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\refint\Maitrice_POO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\Maitrice_POO.genruntimeconfig.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\Maitrice_POO\obj\Debug\net6.0\ref\Maitrice_POO.dll
