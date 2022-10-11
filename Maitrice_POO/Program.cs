@@ -1,6 +1,7 @@
 ﻿using System;
 using Maitrice_POO.Encapsulation;
 using Maitrice_POO.Interface;
+using Maitrice_POO.Polymorphisme;
 
 namespace Maitrice_POO;
 class Programm
@@ -114,5 +115,10 @@ class Programm
         };
 
         Console.WriteLine(client2.ToString());
+
+        Console.WriteLine();
+        Console.WriteLine("*** Polymorphisme ***");
+        Table table = null;
+        PolyTest.Acheter(table);
     }
 }
