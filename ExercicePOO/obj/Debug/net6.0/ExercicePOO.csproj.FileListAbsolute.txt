@@ -1,0 +1,15 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\bin\Debug\net6.0\ExercicePOO.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\bin\Debug\net6.0\ExercicePOO.deps.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\bin\Debug\net6.0\ExercicePOO.runtimeconfig.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\bin\Debug\net6.0\ExercicePOO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\bin\Debug\net6.0\ExercicePOO.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.csproj.AssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.AssemblyInfoInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.AssemblyInfo.cs
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\refint\ExercicePOO.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ExercicePOO.genruntimeconfig.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\ExercicePOO\obj\Debug\net6.0\ref\ExercicePOO.dll
