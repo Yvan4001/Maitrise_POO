@@ -1,0 +1,15 @@
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\bin\Debug\net6.0\MaitrisePOO_Intermediaire.exe
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\bin\Debug\net6.0\MaitrisePOO_Intermediaire.deps.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\bin\Debug\net6.0\MaitrisePOO_Intermediaire.runtimeconfig.json
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\bin\Debug\net6.0\MaitrisePOO_Intermediaire.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\bin\Debug\net6.0\MaitrisePOO_Intermediaire.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.csproj.AssemblyReference.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.AssemblyInfoInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.AssemblyInfo.cs
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.csproj.CoreCompileInputs.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\refint\MaitrisePOO_Intermediaire.dll
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.pdb
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\MaitrisePOO_Intermediaire.genruntimeconfig.cache
+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\Projet C#\Fichier\Maitrise_POO\Maitrise_POO\MaitrisePOO_Indermediare\obj\Debug\net6.0\ref\MaitrisePOO_Intermediaire.dll
