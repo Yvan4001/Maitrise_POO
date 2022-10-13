@@ -31,10 +31,12 @@ namespace ExercicePOO.Exercice2
             Console.WriteLine("*** Exercice 3 ***");
             Complex complex = new Complex(4, 8);
             Complex complex2 = new Complex(4, 6);
+            
             Console.WriteLine("Le nombre complexe est: " + complex.ToString());
             Console.WriteLine("Le nombre complexe est: " + complex2.ToString());
             Console.WriteLine("L'ordre de grandeur est: " + complex2.GetMagnitude());
-            complex.Sum(complex2.Real, complex2.Imaginary);
+            
+            complex.Sum(complex2);
             Console.WriteLine("Apres l'addition: " + complex.ToString());
 
             Console.WriteLine();

@@ -8,9 +8,16 @@ namespace ExercicePOO.Exercice4
 {
     internal class Personn
     {
-        public string Nom { get; set; } = string.Empty;
+        public string Nom { get; set; }
 
-        public House House { get; set; } = new House(120);
+        public House House { get; set; }
+
+        public Personn()
+        {
+            Nom = string.Empty;
+            House = new House(120);
+        }
+
         public Personn(string nom, House house)
         {
             Nom = nom;

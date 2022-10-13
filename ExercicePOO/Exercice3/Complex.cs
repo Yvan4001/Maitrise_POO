@@ -42,11 +42,11 @@ namespace ExercicePOO.Exercice3
             return Math.Sqrt(Math.Pow(_real,2) + Math.Pow(_imaginary,2));
         }
 
-        public void Sum(double real, double imaginary)
+        public void Sum(Complex complex)
         {
-            double tempReal = _real + real;
-            double tempImaginary = _imaginary + imaginary;
-
+            double tempReal = _real + complex.Real;
+            double tempImaginary = _imaginary + complex.Imaginary;
+            
             _real = tempReal;
             _imaginary = tempImaginary;
         }
