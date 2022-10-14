@@ -1,4 +1,5 @@
-﻿using MaitrisePOO_Intermediaire.DesignsPatterns.Adapter;
+﻿#region Using
+using MaitrisePOO_Intermediaire.DesignsPatterns.Adapter;
 using MaitrisePOO_Intermediaire.EntiteVsObjectValeur;
 using MaitrisePOO_Intermediaire.DesignsPatterns.Decorator;
 using MaitrisePOO_Intermediaire.DesignsPatterns.Proxy;
@@ -8,6 +9,7 @@ using MaitrisePOO_Intermediaire.DesignsPatterns.Observer.Exemple2;
 using ContactObs = MaitrisePOO_Intermediaire.DesignsPatterns.Observer.Exemple2.Contact; //Permet de résoudre le conflit de nom entre les classes Contact de l'exemple 2 et Adapter
 using MaitrisePOO_Intermediaire.DesignsPatterns.Command;
 
+#endregion
 
 #region Entites Object Valeur
 
@@ -191,5 +193,50 @@ ICommander commandeDin = new CommandeDin(chef, "Pizza");
 
 serveur.TakeCommande(commandeDej);
 serveur.TakeCommande(commandeDin);
+
+#endregion
+
+#region SOLID - Demeter
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Demeter ***");
+Console.WriteLine();
+Console.WriteLine("Voir le dossier SOLID/Demeter pour le code de l'exemple");
+
+#endregion
+
+#region SOLID - Separation
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Separation ***");
+Console.WriteLine();
+Console.WriteLine("Voir le dossier SOLID/S pour le code de l'exemple");
+
+#endregion
+
+#region SOLID - Open Close
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Open Close ***");
+Console.WriteLine();
+Console.WriteLine("Voir le dossier SOLID/O pour le code de l'exemple");
+
+#endregion
+
+#region SOLID - Liskov Substitution
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Liskov Substitution ***");
+Console.WriteLine();
+Console.WriteLine("Permet de découper un scripts maitre en plusieurs scripts plus petit (Héritage)");
+
+#endregion
+
+#region SOLID - Interface Segregation
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Interface Segregation ***");
+Console.WriteLine();
+Console.WriteLine("Permet de découper des interfaces en plusieurs interfaces plus petites");
 
 #endregion
