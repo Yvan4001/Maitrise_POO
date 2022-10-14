@@ -3,6 +3,10 @@ using MaitrisePOO_Intermediaire.EntiteVsObjectValeur;
 using MaitrisePOO_Intermediaire.DesignsPatterns.Decorator;
 using MaitrisePOO_Intermediaire.DesignsPatterns.Proxy;
 using MaitrisePOO_Intermediaire.DesignsPatterns.ChaineOfResponsability;
+using MaitrisePOO_Intermediaire.DesignsPatterns.Observer.Exemple1;
+using MaitrisePOO_Intermediaire.DesignsPatterns.Observer.Exemple2;
+using ContactObs = MaitrisePOO_Intermediaire.DesignsPatterns.Observer.Exemple2.Contact; //Permet de résoudre le conflit de nom entre les classes Contact de l'exemple 2 et Adapter
+using MaitrisePOO_Intermediaire.DesignsPatterns.Command;
 
 
 #region Entites Object Valeur
@@ -29,11 +33,12 @@ Console.WriteLine();
 Console.WriteLine("*** Design Patern - Adapter ***");
 Console.WriteLine();
 
-//IJsonAdapter adapter = new JsonAdapter(new ContactRepository());
+IJsonAdapter adapter = new JsonAdapter(new ContactRepository());
 
 //string json = adapter.RecupContactsJson("contacts.xml");
 
 //Console.WriteLine(json);
+Console.WriteLine("Ficher XML non créé");
 #endregion
 
 #region Design Patern - Bridge
@@ -42,7 +47,7 @@ Console.WriteLine();
 Console.WriteLine("*** Design Patern - Bridge ***");
 Console.WriteLine();
 //Voir le dossier Bridge pour le code de l'exemple
-
+Console.WriteLine("Voir le dossier Bridge pour le code de l'exemple");
 #endregion
 
 #region Design Patern - Decorator
@@ -128,5 +133,63 @@ static void ChaineOfResponsabilityMethod()
 
     Console.WriteLine();
 }
+
+#endregion
+
+#region Desing Patern - Observer
+
+Console.WriteLine();
+Console.WriteLine("*** Design Patern - Observer ***");
+Console.WriteLine();
+
+ObserverMethod();
+
+static void ObserverMethod()
+{
+    Console.WriteLine("Exemple 1");
+    var produit = new Produit()
+    {
+        Id = 1,
+        Description = "RTX 4090",
+        Prix = 1300
+    };
+
+    produit.AttachObserver(new Client("Dupont", "drenfa.meedman@gmail.com") { Id = 1 });
+    produit.AttachObserver(new Client("Martin", "drenfa.meedman@gmail.com") { Id = 2 });
+    produit.Prix = 150; //Cette modification déclenche l'envoi d'un mail aux clients
+
+    Console.WriteLine("\nExemple 2");
+    var article = new Article()
+    {
+        Description = "Chaise",
+        Prix = 20
+    };
+
+    var disC1 = article.Subscribe(new ContactObs() { Nom = "John" });
+    var disC2 = article.Subscribe(new ContactObs() { Nom = "Jane" });
+
+    article.Prix = 30;
+
+    disC1.Dispose(); //C1 se desinscrit
+
+    article.Prix = 20;
+}
+
+#endregion
+
+#region Desing Patern - Command
+
+Console.WriteLine();
+Console.WriteLine("*** Design Patern - Command ***");
+Console.WriteLine();
+
+var chef = new ChefCuisine();
+var serveur = new Serveur();
+
+ICommander commandeDej = new CommandeDej(chef, "Burger");
+ICommander commandeDin = new CommandeDin(chef, "Pizza");
+
+serveur.TakeCommande(commandeDej);
+serveur.TakeCommande(commandeDin);
 
 #endregion
