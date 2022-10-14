@@ -229,6 +229,7 @@ Console.WriteLine();
 Console.WriteLine("*** SOLID - Liskov Substitution ***");
 Console.WriteLine();
 Console.WriteLine("Permet de découper un scripts maitre en plusieurs scripts plus petit (Héritage)");
+Console.WriteLine("Voir le dossier SOLID/L pour le code de l'exemple");
 
 #endregion
 
@@ -238,5 +239,14 @@ Console.WriteLine();
 Console.WriteLine("*** SOLID - Interface Segregation ***");
 Console.WriteLine();
 Console.WriteLine("Permet de découper des interfaces en plusieurs interfaces plus petites");
+
+#endregion
+
+#region SOLID - Dependency Inversion
+
+Console.WriteLine();
+Console.WriteLine("*** SOLID - Depency Inversion ***");
+Console.WriteLine();
+Console.WriteLine("Voir le dossier SOLID/D pour le code de l'exemple");
 
 #endregion
